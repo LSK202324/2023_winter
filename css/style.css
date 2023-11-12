@@ -42,13 +42,15 @@ header.header_background {
 div.page_background{
     background-color: #356e77;
     max-width: 250ex;
+    min-width: 120ex;
     margin: 0;
-    display: flex;
-    justify-content: center;
+    display: absolute;
+    justify-content: left;
+    overflow: scroll;
 }
 
 div.page_foreground{
-    margin: 2ex 10% 10ex 10%;
+    margin: 2ex 10ex 10ex auto;
     padding: 1ex 3%;
     background-color: white;
     width: 130ex;
