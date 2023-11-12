@@ -47,6 +47,7 @@ div.page_background{
     display: absolute;
     justify-content: left;
     overflow: scroll;
+    padding-left: 15ex
 }
 
 div.page_foreground{
