@@ -164,6 +164,7 @@ p.main{
     display: fixed;
     text-justify: inter-word;
     align-items: left;
+    line-height:150%
 }
 
 
@@ -194,3 +195,10 @@ ul.announce{
 a.contact{
     color: #356e77;
 }
+
+div.image_container{
+    max-width: 120ex;
+    min-width: 120ex;
+    text-align: center;
+}
+
