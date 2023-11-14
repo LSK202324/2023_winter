@@ -67,7 +67,8 @@ div.content{
 
 
 header.menu{
-    width: 120ex;
+    width: 100ex;
+    font-size: 14pt;
     margin-top: 3ex;
     padding-left: 10ex;
     display: flex;
@@ -156,8 +157,8 @@ h2.main{
 }
 
 p.main{
-    font-size: 12pt;
-    width: 120ex;
+    font-size: 14pt;
+    width: 100ex;
     margin-top: 1ex;
     padding-left: 3ex;
     padding-right: 3ex;
@@ -169,23 +170,27 @@ p.main{
 
 
 li.lev1{
+    font-size: 14pt;
     list-style-type : square;
     padding-left:5ex;
 }
 
 li.lev2{
+    font-size: 14pt;
     list-style-type : circle;
     padding-left:10ex;
 }
 
 li.lev3{
+    font-size: 14pt;
     list-style-type : none;
     padding-left:15ex;
 }
 
 li.cont{
+    font-size: 14pt;
     list-style-type: none;
-    padding-left: 12.5ex;
+    padding-left: 14ex;
 }
 ul.announce{
     list-style-type : square;
