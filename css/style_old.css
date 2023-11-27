@@ -68,7 +68,7 @@ div.content{
 
 header.menu{
     width: 100ex;
-    font-size: 13pt;
+    font-size: 14pt;
     margin-top: 3ex;
     padding-left: 10ex;
     display: flex;
@@ -113,7 +113,7 @@ li.sub_extended {
 
 h4.title {
     color: #515151;
-    font-size: 100%;
+    font-size: 125%;
 }
 
 td.row {
@@ -127,7 +127,7 @@ p.content {
 }
 
 h1.title{
-    font-size: 20pt;
+    font-size: 22.5pt;
     width: 120ex;
     margin-top: -2.5ex;
     margin-bottom: .5ex;
@@ -137,7 +137,7 @@ h1.title{
 }
 
 h1.main{
-    font-size: 20pt;
+    font-size: 22.5pt;
     width: 120ex;
     margin-top: 1ex;
     margin-bottom: 1ex;
@@ -147,7 +147,7 @@ h1.main{
 }
 
 h2.main{
-    font-size: 20pt;
+    font-size: 22.5pt;
     width: 120ex;
     margin-top: 2ex;
     margin-bottom: 2ex;
@@ -157,7 +157,7 @@ h2.main{
 }
 
 p.main{
-    font-size: 13pt;
+    font-size: 14pt;
     width: 100ex;
     margin-top: 1ex;
     padding-left: 3ex;
